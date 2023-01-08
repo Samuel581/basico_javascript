@@ -32,7 +32,7 @@ console.log(example > 5 && example < 10); // false
 console.log(example > 5 || example < 10); // true
 
 // NOT
-console.log(!(example > 5)); // false
+console.log(!(example != 5)); // false
 
 // Operadores de aritmeticos
 // Incremento
